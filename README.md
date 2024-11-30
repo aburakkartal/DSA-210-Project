@@ -44,5 +44,5 @@ Highlight significant patterns or outliers.
 Reporting:
 
 Summarize findings and insights in a structured report.
-Discuss possible reasons behind the observed correlations (or lack thereof).
+Discuss possible reasons behind the observed correlations.
 This project is an opportunity to better understand my habits and make data-driven decisions for a balanced lifestyle.

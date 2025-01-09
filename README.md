@@ -30,6 +30,7 @@ The analysis uses approximately one year of data from the following sources:
 
 - **Pandas**: For data preprocessing and analysis.
 - **NumPy**: For numerical operations and statistical calculations.
+- **Seaborn**: For for data visualization.
 
 ## Project Plan
 
